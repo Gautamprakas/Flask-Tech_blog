@@ -11,12 +11,12 @@
     "tag_line": "Heaven for programmers",
     "gmail-user":"your-email@gmail.com",
     "gmail-password":"gmailpassword",
-    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+    "about_text": "Hi my name is Prakash Gautam and I have created this flask app for blogging",
     "no_of_posts": 3,
     "login_image":"login.svg",
-    "admin_user":"harry",
-    "admin_password": "subscribenow",
-    "upload_location":"C:\\Users\\Haris\\PycharmProjects\\Flask-tut\\static"
+    "admin_user":"Prakash Gautam",
+    "admin_password": "Prakash",
+    "upload_location":"C:\\Users\\Prakash\\PycharmProjects\\Flask\\static"
 
 
   }
